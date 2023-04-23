@@ -1,1 +1,1 @@
-# TechText-Scratch
+# PotatoText-Scratch
